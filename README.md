@@ -1,4 +1,4 @@
 # E-school
-E-school_Half
+Project_E-School
 
 Preview : https://aimaksim.github.io/E-school/
